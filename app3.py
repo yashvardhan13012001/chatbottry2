@@ -8,7 +8,7 @@ from nltk.tokenize import sent_tokenize
 import openai
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = "API Key"
 
 # Set up Selenium driver (remove executable_path parameter)
 driver = webdriver.Chrome()
